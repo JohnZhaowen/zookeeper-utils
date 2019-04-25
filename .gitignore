@@ -1,0 +1,47 @@
+*.iml
+*.log
+*.logs
+*.lst
+.DS_Store
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.lst
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### my own ###
+logs
+*.log
+target
+*.class
+.classpath
+.settings
+.project
+target
+*/*/target
+*/*/*/target
+*/*/target/
+*/*/*/target/
+target/
+common/util/target/
+velocity.log
+inputFiles.lst
+web/application/src/main/resources/plugin
